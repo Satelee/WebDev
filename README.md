@@ -5,3 +5,6 @@ In this read me file I'll give a quick description of each file contained in thi
 
 # MyFirstWebsite
 Literally my first ever website, it has basic HTML and a little CSS to give it some colour. There are three different pages, a homepage, gallery and subscription page.
+
+# FFXV Wiki Page
+Just for fun, this website will only be using the basic HTML and CSS I learnt through the practice website. Nothing crazy but I thought it would be good to apply the skills I have learnt into something that could be more usable or legit.
