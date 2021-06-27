@@ -5,18 +5,16 @@ In this readme file I'll give a quick description of each file contained in this
 # MyFirstWebsite
 Literally my first ever website, it has basic HTML and a little CSS to give it some colour. There are three different pages, a homepage, gallery and subscription page.
 
---------
-Pages in this website:
-    index - homepage, a lot of rambling and getting used to all the syntaxing
-    cursedcats - images of 10 cursed cats
-    subscribe - allows users to subscribe for more cursed cat content by completing a form
+### Pages in this website:
+    - index: homepage, a lot of rambling and getting used to all the syntaxing
+    - cursedcats: images of 10 cursed cats
+    - subscribe: allows users to subscribe for more cursed cat content by completing a form
 
 # FFXV Wiki Page
 Just for fun, this website will only be using the basic HTML and CSS I learnt through the practice website. Nothing crazy but I thought it would be good to apply the skills I have learnt into something that could be more usable or legit.
 
---------
-Pages in this website:
-    index - homepage, using place holder text but game information would be placed here
-    characters - character cards for the 4 main characters
-    music - includes album for the OST + tables including track titles from each disc
-    gallery - 9 images from the game organized by using more CSS concepts
+### Pages in this website:
+    - index: homepage, using place holder text but game information would be placed here
+    - characters: character cards for the 4 main characters
+    - music: includes album for the OST + tables including track titles from each disc
+    - gallery: 9 images from the game organized by using more CSS concepts
