@@ -1,5 +1,24 @@
 <!DOCTYPE html>
 <html>
+    <style>
+        * {
+            box-sizing: border-box;
+          }
+          
+          .column {
+            float: left;
+            width: 33.33%;
+            padding: 5px;
+          }
+          
+          /* Clearfix (clear floats) */
+          .row::after {
+            content: "";
+            clear: both;
+            display: table;
+          }
+    </style>
+
     <head>
         <title> FFXV Wiki Gallery </title>
     </head>
@@ -20,14 +39,50 @@
         </nav>
 
         <hr> 
-        <h1> Gallery </h1>
+        <h1> <center> Gallery </center> </h1>
+        <div class="row">
+            <div class="column">
+                <img src="images/img1.jpg" style="width: 100%;">
+            </div>
+
+            <div class="column">
+                <img src="images/img2.jpg" style="width: 100%;">
+            </div>
+
+            <div class="column">
+                <img src="images/img3.jpg" style="width: 100%;">
+            </div>
+
+            <div class="column">
+                <img src="images/img4.jpg" style="width: 100%;">
+            </div>
+
+            <div class="column">
+                <img src="images/img5.jpg" style="width: 100%;">
+            </div>
+
+            <div class="column">
+                <img src="images/img6.jpg" style="width: 100%;">
+            </div>
+
+            <div class="column">
+                <img src="images/img7.jpg" style="width: 100%;">
+            </div>
+
+            <div class="column">
+                <img src="images/img8.jpg" style="width: 100%;">
+            </div>
+
+            <div class="column">
+                <img src="images/img9.jpg" style="width: 100%;">
+            </div>
+        </div>
 
         <br>
+        <br>
         <hr>
-        <footer>
+        <footer class="foot">
             <p><center>This website was brought to you by Satele </center></p>
         </footer>
-
     </body>
-    
 </html>
