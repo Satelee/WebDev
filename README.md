@@ -10,7 +10,7 @@ Literally my first ever website, it has basic HTML and a little CSS to give it s
     - cursedcats: images of 10 cursed cats
     - subscribe: allows users to subscribe for more cursed cat content by completing a form
 
-# FFXV Wiki Page
+# FinalFantasyXVWiki
 Just for fun, this website will only be using the basic HTML and CSS I learnt through the practice website. Nothing crazy but I thought it would be good to apply the skills I have learnt into something that could be more usable or legit.
 
 ### Pages in this website:
