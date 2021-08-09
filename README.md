@@ -25,4 +25,4 @@ This website was my first real expeirence using CSS and creating my own style sh
  ### Pages in this website:
     - index: homepage, using lorem ipsum where a cute welcome message and introduction may go.
     - about: more details about said tea party and what it may entail.
-    - resgister: register for the tea party.
+    - register: register for the tea party.
