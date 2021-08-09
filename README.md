@@ -18,3 +18,11 @@ Just for fun, this website will only be using the basic HTML and CSS I learnt th
     - characters: character cards for the 4 main characters
     - music: includes album for the OST + tables including track titles from each disc
     - gallery: 9 images from the game organized by using more CSS concepts
+
+# Tea Party
+This website was my first real expeirence using CSS and creating my own style sheet to use and implament throughout the website. Again, nothing extrordinary but just to get me used to how CSS works & how I can use it throughout a website. 
+
+ ### Pages in this website:
+    - index: homepage, using lorem ipsum where a cute welcome message and introduction may go.
+    - about: more details about said tea party and what it may entail.
+    - resgister: register for the tea party.
