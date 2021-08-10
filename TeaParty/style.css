@@ -65,6 +65,10 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: rgb(129, 78, 72);
+}
+
 #div1 {
     background-color: rgba(80, 49, 43, 0.60);
     text-align: center;
