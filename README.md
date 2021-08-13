@@ -33,3 +33,9 @@ A very simple yet responsive immage gallery with 6 carefully selected images fro
 
 ## Pages in this website:
     - index: homepage, includes the gallery and title.
+
+# Robot Floating
+A simple CSS based animation of a little robot floating in space. He has a few simple hover animations when you hover over certain parts. (I'll let you find it and enjoy it youreslf!)
+
+## Pages in this website:
+    - index: homepage containing the simple animation.
