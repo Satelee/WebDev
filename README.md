@@ -29,7 +29,7 @@ This website was my first real expeirence using CSS and creating my own style sh
 
 
 # Mononoke Gallery
-A very simple yet responsive immage gallery with 6 carefully selected images from the 2007 horror anime 'Mononoke'. The website utilizes flexbox & the CSS transform and transition properties upon hover to make it more interactive.
+A very simple yet responsive image gallery with 6 carefully selected images from the 2007 horror anime 'Mononoke'. The website utilizes flexbox & the CSS transform and transition properties upon hover to make it more interactive.
 
 ## Pages in this website:
     - index: homepage, includes the gallery and title.
