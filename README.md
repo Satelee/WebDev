@@ -26,3 +26,10 @@ This website was my first real expeirence using CSS and creating my own style sh
     - index: homepage, using lorem ipsum where a cute welcome message and introduction may go.
     - about: more details about said tea party and what it may entail.
     - register: register for the tea party.
+
+
+# Mononoke Gallery
+A very simple yet responsive immage gallery with 6 carefully selected images from the 2007 horror anime 'Mononoke' using flexbox.
+
+## Pages in this website:
+    - index: homepage, includes the gallery and title.
